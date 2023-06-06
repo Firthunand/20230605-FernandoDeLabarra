@@ -1,0 +1,5 @@
+1-mv
+2-rm -r
+3-ls -R
+4-cd
+5-touch
